@@ -1,1 +1,19 @@
-/* Write your CSS here! */
+body {
+    margin:100px
+}
+
+#img1{
+    float: left;
+    margin: 10px;
+}
+
+#mainHeading {
+    color:red
+}
+
+.funParagraph{
+    color:green;
+    margin: 10px;
+}
+
+
